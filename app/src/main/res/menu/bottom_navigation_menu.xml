@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/lightWhite"
+        android:title="Home"/>
+    <item
+        android:id="@+id/user_activity_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_activity"
+        android:iconTint="@color/lightWhite"
+        android:title="Activity"/>
+    <item
+        android:id="@+id/user_profile_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_face"
+        android:iconTint="@color/lightWhite"
+        android:title="Profile"/>
+
+</menu>
